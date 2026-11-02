@@ -1,0 +1,107 @@
+*{
+    background-color: rgb(23, 39, 39);
+    color: white;
+}
+.t1{
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px seagreen;
+    text-transform: capitalize;
+    text-align: center;
+}
+.t2{
+    text-align: center;
+    text-shadow: 3px 3px 3px plum;
+    direction: rtl;
+    font-size: 35px;
+    border: 10px solid plum;
+    box-shadow: 5px 3px 2px purple;
+    border-radius: 25%;
+}
+.t3{
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px peru;
+    text-transform: capitalize;
+    text-align: center;
+}
+.t4{
+    
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px tomato;
+    text-transform: capitalize;
+    text-align: center;
+}
+.t5{
+    
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px turquoise;
+    text-transform: capitalize;
+    text-align: center;
+}
+.t6{
+    
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px teal;
+    text-transform: capitalize;
+    text-align: center;
+}
+#border1{
+    border: 5px solid salmon;
+    outline: 5px solid sandybrown;
+    box-shadow: 10px 10px 5px cornsilk;
+    border-radius: 25%;
+}
+#border2{
+    border: 5px solid teal;
+    outline: 5px solid turquoise;
+    box-shadow: 10px 10px 5px skyblue;
+    border-radius: 25%;
+}
+#border3{
+    
+    border: 5px solid coral;
+    outline: 5px solid darkred;
+    box-shadow: 10px 10px 5px tomato;
+    border-radius: 25%;
+}
+#border4{
+    
+    border: 5px solid rgb(57, 138, 57);
+    outline: 5px solid palegreen;
+    box-shadow: 10px 10px 5px seagreen;
+    border-radius: 25%;
+}
+p{
+    text-align: center;
+}
+li{
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px teal;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 30px;
+    padding: 18px;
+}
+table, th , tr{
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    border: 5px solid coral;
+    outline: 5px solid darkred;
+    box-shadow: 10px 10px 5px tomato;
+}
+
+label , input , select{
+    
+    border: 5px solid salmon;
+    outline: 5px solid sandybrown;
+    box-shadow: 10px 10px 5px cornsilk;
+    border-radius: 25%;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px teal;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    display: block;
+     margin: 0 auto;
+}
